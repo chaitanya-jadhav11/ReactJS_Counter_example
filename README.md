@@ -1,2 +1,4 @@
-# ReactJS_Counter_example
+# ReactJS Counter example
 Simple ReactJS counter example
+
+
